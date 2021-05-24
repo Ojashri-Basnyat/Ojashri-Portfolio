@@ -264,6 +264,11 @@ main {
   background-image: url("../images/simply-unused.png");
 }
 
+.mind-decks {
+  background-image: url("../images/mind-decks.png");
+}
+
+
 /* END PORTFOLIO PROJECT IMAGES */
 
 @media screen and (max-width: 980px) {
