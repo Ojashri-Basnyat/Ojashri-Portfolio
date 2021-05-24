@@ -1,4 +1,5 @@
-# week-2-challenge
+## Ojashri's Portfolio
+
 Week 2 challenge : Professional Portfolio 
 
 Made changes to the developer's name, added my recent photo, and added links to the sections about them, my work, my contact details
